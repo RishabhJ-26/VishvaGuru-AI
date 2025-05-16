@@ -51,19 +51,23 @@ npm run dev
 5.Open your browser at http://localhost:3000
 
 ---
-## Usage:
- .Chat with the AI assistant naturally
- .Use commands or queries — VishvaGuru AI understands context and responds accordingly
- .Extend or customize AI features by modifying backend logic
+## 🧑‍🏫 Usage
+
+- ✅ Chat with the AI assistant naturally.
+- 💬 Use commands or queries — VishvaGuru AI understands context and responds accordingly.
+- 🔧 Extend or customize AI features by modifying the backend logic.
+
 
 ---
 
-## Contributing:
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to:
 
-.Report issues🚀
-.Suggest new features🚀
-.Submit pull requests🚀
+- 🐞 Report issues  
+- 🌟 Suggest new features  
+- 📩 Submit pull requests
+
 
 Please follow coding standards and write clear commit messages.
 
