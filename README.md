@@ -58,7 +58,6 @@ npm run dev
 - 🔧 Extend or customize AI features by modifying the backend logic.
 
 
----
 
 ## 🤝 Contributing
 
@@ -71,13 +70,9 @@ Contributions are welcome! Feel free to:
 
 Please follow coding standards and write clear commit messages.
 
----
 
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
 ## Contact👨‍💻:
----
 Rishabh Jain – [GitHub](https://github.com/RishabhJ-26) | [LinkedIn](https://www.linkedin.com/in/rishabhjain-enris/)
