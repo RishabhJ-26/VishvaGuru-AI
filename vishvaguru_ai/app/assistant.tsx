@@ -73,7 +73,7 @@ export const Assistant = () => {
                   </BreadcrumbItem> */}
                   {/* <BreadcrumbSeparator className="hidden md:block" /> */}
                   <BreadcrumbItem>
-                    <BreadcrumbPage>Powered by Rishabh Jain</BreadcrumbPage>
+                   <BreadcrumbPage>Powered by <div className="font-bold">Rishabh Jain</div> </BreadcrumbPage>
                   </BreadcrumbItem>
                 </BreadcrumbList>
               </Breadcrumb>
