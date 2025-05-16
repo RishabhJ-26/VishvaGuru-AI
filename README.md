@@ -6,7 +6,7 @@ VishvaGuru AI is an intelligent AI-powered assistant designed to help users with
 
 ## Live Demo
 
-Try the live demo here:  
+Try the live demo here:  vishvaguru-ai.vercel
 
 
 ---
